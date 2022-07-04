@@ -1,4 +1,4 @@
-# Meower - Twitter for Cats
+# Meower - Twitter for Cats: https://meower.now.sh/
 
 A basic twitter clone built to demonstrate the full stack 🥞 (client, server, database).
 
